@@ -1,5 +1,5 @@
 ## Hi There
-I am currently Learning C as well as css and php for HTML. <br>
+I am currently Learning C and swift as well as mySQL, css, and php for HTML. <br>
 I am currently working on a project to create an app for wifi research purposes.
 If you would like to help with that at all, please let me know. This is primarily a project I am working on in my free time.
 
